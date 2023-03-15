@@ -1,5 +1,9 @@
 [
   {
     "package": "GOsummaries"
+  },
+  {
+    "package": "pheatmap",
+    "oncran": true
   }
 ]

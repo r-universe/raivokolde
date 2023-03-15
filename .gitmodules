@@ -8,3 +8,8 @@
 	url = https://github.com/raivokolde/gosummaries
 	shallow = true
 	registered = true
+[submodule "pheatmap"]
+	path = pheatmap
+	url = https://github.com/raivokolde/pheatmap
+	shallow = true
+	registered = true
