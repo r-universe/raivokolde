@@ -13,3 +13,8 @@
 	url = https://github.com/raivokolde/pheatmap
 	shallow = true
 	registered = true
+[submodule "RobustRankAggreg"]
+	path = RobustRankAggreg
+	url = https://github.com/cran/RobustRankAggreg
+	shallow = true
+	registered = true
