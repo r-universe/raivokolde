@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GOsummaries"]
 	path = GOsummaries
 	url = https://github.com/raivokolde/gosummaries
-	shallow = true
-	registered = true
 [submodule "pheatmap"]
 	path = pheatmap
 	url = https://github.com/raivokolde/pheatmap
-	shallow = true
-	registered = true
 [submodule "RobustRankAggreg"]
 	path = RobustRankAggreg
 	url = https://github.com/cran/RobustRankAggreg
-	shallow = true
-	registered = true
