@@ -5,9 +5,9 @@
 [submodule "GOsummaries"]
 	path = GOsummaries
 	url = https://github.com/raivokolde/gosummaries
-[submodule "pheatmap"]
-	path = pheatmap
-	url = https://github.com/raivokolde/pheatmap
 [submodule "RobustRankAggreg"]
 	path = RobustRankAggreg
 	url = https://github.com/cran/RobustRankAggreg
+[submodule "pheatmap"]
+	path = pheatmap
+	url = https://github.com/raivokolde/pheatmap
