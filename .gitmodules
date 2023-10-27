@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GOsummaries"]
-	path = GOsummaries
-	url = https://github.com/raivokolde/gosummaries
 [submodule "RobustRankAggreg"]
 	path = RobustRankAggreg
 	url = https://github.com/cran/RobustRankAggreg
