@@ -8,3 +8,6 @@
 [submodule "pheatmap"]
 	path = pheatmap
 	url = https://github.com/raivokolde/pheatmap
+[submodule "tidymatrix"]
+	path = tidymatrix
+	url = https://github.com/raivokolde/tidymatrix
